@@ -1,0 +1,68 @@
+things you should
+1. html
+2. css
+3. javascript
+
+tools to install
+1. XAAMMP
+
+what is php
+- Hypertext preprocessor language , it can contain html,css and js. it has an extension of  .php
+
+what can php do?
+- it can generate dynamic page content
+- it can create,open,read,write,delete and close files on the server
+- it can collect data
+- it can send cookies and also recieve
+- it can add , delete,modify datas in your database
+- it can control users access 
+- it can encrypt and decrypt datas 
+
+
+php syntax
+php can be placed anywhere
+
+
+to output result in php use echo
+
+
+case sensitivity in php
+keywords(if,else,while,echo),functions and user defined functions are not case sensitive
+
+only vaiable names are case sensitive in php
+
+
+COMMENTING IN php
+// this is a single line comment
+#  this is a single line comment
+
+/*
+this is a multi line comment
+*/
+
+php variables
+-------------creating variable in php
+$ - dollar sign
+
+rules of php variables
+1. php variables must start with dollar sign
+2. php variables must begin with a letter or underscore
+3. php variables must never start with numbers
+4. php variables can be alpha numeric
+5. php varables are case-sensitive  $age  is different from $AGE
+
+
+
+php variable scope
+---- there are different variables scopes
+1. local variables
+2. global variables
+3.  static variables
+
+
+-----global and local
+-- a variable declared outside of a function is called global variable, it can be accessed only 
+outside of a function
+
+
+
